@@ -10,6 +10,7 @@ body{
 .content{
     display: grid;
     text-color: white;
+    padding: 100px;
 }
 
 .container{
