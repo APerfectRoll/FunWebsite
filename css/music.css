@@ -7,9 +7,9 @@ body{
     overflow-x: hidden;
 }
 
-.content
+h1
 {
-    
+    margin: 20px;
 }
 
 .container{
