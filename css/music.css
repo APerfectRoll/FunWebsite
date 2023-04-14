@@ -16,7 +16,7 @@ h1
 }
 
 .content {
-   
+
 }
 
 .container{
@@ -24,6 +24,11 @@ h1
     background-color: white;
     width: auto;
     min-height: 100vh;
+    paddng: 20px;
+}
+
+.panel1{
+    padding: 20px;
 }
 
 @media (max-width: 580px){
