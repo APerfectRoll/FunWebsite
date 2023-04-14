@@ -4,8 +4,9 @@ body{
     font-family: 'Tinos', serif;
     display: flex;
     background-color: lightblue;
-    margin: 0;
-    overflow: auto;
+    margin: 0 30%;
+    overflow-x: hidden;
+    background-color: yellow;
 }
 
 .content{
