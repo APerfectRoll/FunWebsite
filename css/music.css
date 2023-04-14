@@ -4,10 +4,7 @@ body{
     font-family: 'Tinos', serif;
     display: flex;
     background-color: lightblue;
-    margin: 0 30%;
     overflow-x: hidden;
-    background-color: yellow;
-    z-index: 100;
 }
 
 .content
