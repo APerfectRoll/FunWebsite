@@ -7,10 +7,11 @@ body{
     margin: 0 30%;
     overflow-x: hidden;
     background-color: yellow;
+    z-index: 100;
 }
 
-.content{
-    display: grid;
+.content
+{
     text-color: white;
 }
 
