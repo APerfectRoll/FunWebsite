@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&family=Tinos&display=swap');
+
+body{
+    font-family: 'Tinos', serif;
+
+    background-color: violet;
+    overflow-x: hidden;
+    margin: 20px;
+}
+
+
+
+h1
+{
+    margin: 20px;
+}
+
+.content {
+
+}
+
+.container{
+    margin: 20px;
+    background-color: white;
+    width: auto;
+    min-height: 100vh;
+    paddng: 20px;
+}
+
+.panel1{
+    padding: 20px;t
+}
+
+@media (max-width: 580px){
+    body{
+        flex-direction: column;
+    }
+}
